@@ -1,0 +1,12 @@
+{
+  "export_job_id": "9d93bcdc-73ee-4749-bb7f-59984e4f485c",
+  "id_short": 149515,
+  "published_at": "2026-04-18T07:28:43Z",
+  "repo_name": "restaurant-verified-email-access-in-georgia-us-sample-149515",
+  "sample_asset_name": "beamstation_149515_restaurants-us-ga_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/149515/beamstation_149515_restaurants-us-ga_SAMPLE_DIST.csv",
+  "sample_records": 415,
+  "sample_sha256": "a2f5eb57a6dac20744c7cc0131ab6958abd3096c166a0841c455b56887a5bec3",
+  "sample_size_bytes": 1664559,
+  "total_records": 4156
+}
