@@ -1,0 +1,22 @@
+{
+  "base_price": 2995,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "email",
+  "config_description": "--Reach Independent Inboxes--\n\nWeekly verified, high-deliverability emails.\n\nOnly for established, independent restaurants (or micro-chains) \u2013 large chain enterprises excluded.\n\nWeekly email verification and detailed analysis via our proprietary infrastructure.\n\nBusiness activity validated by an \"Active Heartbeat\" signal.",
+  "config_name": "Restaurant Verified Email Access in Georgia, US",
+  "export_job_id": "9d93bcdc-73ee-4749-bb7f-59984e4f485c",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 149515,
+  "location_name": "Georgia",
+  "location_type": "state",
+  "repo_name": "restaurant-verified-email-access-in-georgia-us-sample-149515",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/149515/beamstation_149515_restaurants-us-ga_SAMPLE_DIST.csv",
+  "sample_pct": 9.99,
+  "sample_records": 415,
+  "sample_sha256": "a2f5eb57a6dac20744c7cc0131ab6958abd3096c166a0841c455b56887a5bec3",
+  "sample_size_bytes": 1664559,
+  "total_records": 4156,
+  "updated_at": "2026-04-15T03:31:22.738037+00:00"
+}
