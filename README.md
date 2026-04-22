@@ -1,6 +1,6 @@
 # Restaurant Verified Email Access in Georgia, US
 
-> Free BeamStation sample export with 415 rows and masked direct-contact fields.
+> Free BeamStation sample export with 328 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `149515` |
 | Location | Georgia |
 | Category | Restaurants |
-| Full dataset size | 4,156 records |
-| Free sample size | 415 records (9.99%) |
-| Last export | 2026-04-15T03:31:22.738037+00:00 |
+| Full dataset size | 3,280 records |
+| Free sample size | 328 records (10.0%) |
+| Last export | 2026-04-22T08:59:03.591007+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/restaurant-verified-email-access-in-georgia-us-sample-149515/releases/download/sample-latest/beamstation_149515_restaurants-us-ga_SAMPLE_DIST.csv) |
 
 ## What is in this sample
